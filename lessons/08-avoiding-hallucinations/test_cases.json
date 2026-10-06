@@ -1,0 +1,4 @@
+[
+  {"name": "known-fact", "input": "What day does the workbook club meet?", "contains": ["Wednesday"]},
+  {"name": "missing-fact", "input": "Who founded the workbook club?", "expected": "Not enough information."}
+]

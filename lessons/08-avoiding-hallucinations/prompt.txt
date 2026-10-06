@@ -1,0 +1,5 @@
+Answer the question using only the supplied reference. If the reference does not contain the answer, reply exactly: Not enough information.
+<reference>
+The workbook club meets on Wednesdays at the town library.
+</reference>
+Question: {{input}}

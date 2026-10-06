@@ -1,0 +1,4 @@
+[
+  {"name": "positive-review", "input": "I loved every minute of this wonderful concert!", "expected": "positive"},
+  {"name": "negative-review", "input": "The service was terrible and I will never return.", "expected": "negative"}
+]

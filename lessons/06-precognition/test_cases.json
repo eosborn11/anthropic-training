@@ -1,0 +1,3 @@
+[
+  {"name": "remaining-pencils", "input": "A box holds 12 pencils. You buy 3 boxes and give away 5 pencils. How many remain?", "contains": ["<answer>31</answer>"]}
+]
