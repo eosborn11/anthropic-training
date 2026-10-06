@@ -1,0 +1,2 @@
+Solve the arithmetic word problem. Give a brief calculation followed by the final result in <answer> tags.
+Problem: {{input}}

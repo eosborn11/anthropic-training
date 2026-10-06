@@ -1,0 +1,3 @@
+[
+  {"name": "location-json", "input": "Our office is in Paris, France.", "expected": "{\"city\":\"Paris\",\"country\":\"France\"}"}
+]

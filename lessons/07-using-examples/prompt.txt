@@ -1,0 +1,11 @@
+Label the support request using the examples. Reply with only the label.
+
+Request: I was charged twice.
+Label: billing
+Request: I forgot my password.
+Label: account
+Request: The screen freezes when I open the app.
+Label: technical
+
+Request: {{input}}
+Label:

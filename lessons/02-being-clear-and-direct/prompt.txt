@@ -1,0 +1,2 @@
+Classify the sentiment of the review below. Reply with exactly one lowercase word: positive, negative, or neutral. Do not add punctuation.
+Review: {{input}}

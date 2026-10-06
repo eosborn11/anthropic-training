@@ -1,0 +1,5 @@
+[
+  {"name": "eligible-return", "input": "I bought this workbook 10 days ago and have not opened it. Can I return it?", "contains": ["<decision>eligible</decision>"]},
+  {"name": "opened-return", "input": "I opened my workbook yesterday. Can I return it?", "contains": ["<decision>ineligible</decision>"]},
+  {"name": "missing-details", "input": "Can I return my workbook?", "contains": ["<decision>need-details</decision>"]}
+]

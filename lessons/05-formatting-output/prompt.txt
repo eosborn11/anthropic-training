@@ -1,0 +1,2 @@
+Extract the city and country from the text below. Return only compact JSON, with keys in this order: city, country. Do not use Markdown fences or extra spaces.
+Text: {{input}}
